@@ -1,4 +1,4 @@
 from selenium import webdriver
 
 browser = webdriver.Firefox()
-browser.get('http://www.ubuntu.com/')
+browser.get('http://10.10.1.2:8090')
