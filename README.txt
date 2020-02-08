@@ -4,5 +4,6 @@ Features:
 
 + Writing basis procedure
 + Credential security
++ Running in background
 - Implementing network trigger
 - So on...
